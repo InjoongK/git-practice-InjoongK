@@ -1,0 +1,10 @@
+8c92cd3 update new_features.txt after resolving a conflict
+47a7713 update new_features.txt in features branch
+e8535af update new_features.txt to handle a merge conflict
+432e4fc Merge branch 'features'
+ef77f24 update file_1.txt
+1ad46c4 update new_features.txt with feature details
+692104f add empty file
+987511f add .gitignore to ignore api-keys.txt
+f060003 add Readme.md file with title and description
+30ecbda create new files
