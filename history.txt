@@ -113,3 +113,16 @@
   192  git checkout main
   194  git log --oneline > gitlog.txt
   195  history | grep git > history.txt
+  196  git add gitlog.txt
+  197  git add history.txt
+  198  git commit -m "Added gitlog and history files"
+  199  git push origin main
+  200  git push origin InjoongK
+  201  git push origin feature-InjoongK
+  202  git pull
+  204  cd git-practice-InjoongK
+  206  git add gitlog.txt
+  207  git add history.txt
+  208  git commit -m "Added gitlog and history files"
+  209  git log --oneline > gitlog.txt
+  210  history | grep git > history.txt

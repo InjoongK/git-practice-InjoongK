@@ -1,3 +1,7 @@
+a25f4d1 Merge branch 'main' of github.com:InjoongK/git-practice-InjoongK
+f755779 Added gitlog and history files
+8d00239 Merge pull request #1 from tiredlizard/feature-tiredlizard
+ed5f028 made new file heyo.txt
 8c92cd3 update new_features.txt after resolving a conflict
 47a7713 update new_features.txt in features branch
 e8535af update new_features.txt to handle a merge conflict
